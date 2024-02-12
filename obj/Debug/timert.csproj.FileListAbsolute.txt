@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\timert\bin\Debug\timert.exe.config
+C:\Users\student\source\repos\timert\bin\Debug\timert.exe
+C:\Users\student\source\repos\timert\bin\Debug\timert.pdb
+C:\Users\student\source\repos\timert\obj\Debug\timert.csprojAssemblyReference.cache
+C:\Users\student\source\repos\timert\obj\Debug\timert.Form1.resources
+C:\Users\student\source\repos\timert\obj\Debug\timert.Properties.Resources.resources
+C:\Users\student\source\repos\timert\obj\Debug\timert.csproj.GenerateResource.cache
+C:\Users\student\source\repos\timert\obj\Debug\timert.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\timert\obj\Debug\timert.exe
+C:\Users\student\source\repos\timert\obj\Debug\timert.pdb
